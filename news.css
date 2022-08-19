@@ -1,0 +1,28 @@
+.img1 {
+  height: 380px;
+}
+.div1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+}
+.titulo {
+  color: red;
+}
+.paragra {
+  font-size: 20px;
+}
+.linha {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+}
+.imagem {
+  height: 40px;
+  padding: 5px;
+}
+.redes {
+  margin-left: auto;
+  margin-right: auto;
+  width: 15em;
+}
